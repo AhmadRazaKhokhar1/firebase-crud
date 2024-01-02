@@ -65,3 +65,22 @@ body {
   margin: auto;
   margin-top: 35px;
 }
+.updateForm{
+  box-sizing: border-box;
+  box-shadow: 5px 5px 15px black;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 25vw;
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+  margin-left: 500px;
+  background: rgba(0, 65, 100, 0.992);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  color: white;
+}
