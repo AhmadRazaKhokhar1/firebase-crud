@@ -5,13 +5,13 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDIg-ZzFsxqGorfG2GBF0LpwYvrgMh-mag",
-  authDomain: "weather-app-3366a.firebaseapp.com",
-  projectId: "weather-app-3366a",
-  storageBucket: "weather-app-3366a.appspot.com",
-  messagingSenderId: "154617054402",
-  appId: "1:154617054402:web:17a1ccf98c4420161d675b",
-  measurementId: "G-W8Z9D3QK7W"
+  apiKey: "API_KEY",
+  authDomain: "AUTH_DOMAIN",
+  projectId: "Project_ID",
+  storageBucket: "Storage_Bucket",
+  messagingSenderId: "Messaging_sender_ID",
+  appId: "App_ID",
+  measurementId: "Measurement_ID"
 };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
